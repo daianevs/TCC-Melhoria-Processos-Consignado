@@ -61,6 +61,12 @@ O painel desenvolvido consolida os principais indicadores de desempenho operacio
 
 ---
 
+
+
+
+
+
+
 ## 🛠️ Tecnologias utilizadas
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-1B2A4A?style=for-the-badge&logo=powerbi&logoColor=C9A84C)
