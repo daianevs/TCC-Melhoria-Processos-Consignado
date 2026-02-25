@@ -55,9 +55,11 @@ O painel desenvolvido consolida os principais indicadores de desempenho operacio
 
 **Painel de Comissão**
 ![Painel de Comissão](dashboard/painel_comissao.png)
+> 🔗 [Acesse o dashboard interativo aqui](https://app.powerbi.com/view?r=eyJrIjoiOTQ0MmEzOTgtMWZjZS00MGE2LTg0YjEtYjhiODBmMDFmMWRkIiwidCI6ImY2MzBmYjUyLWE1ZGEtNDA3NS05NzY4LWIyNzBhMDkxMjM1ZSJ9)
 
 **Plataforma de Consignação**
 ![Plataforma de Consignação](dashboard/plataforma_consignacao.png)
+> 🔗 [Acesse o dashboard interativo aqui](https://app.powerbi.com/view?r=eyJrIjoiOTQ0MmEzOTgtMWZjZS00MGE2LTg0YjEtYjhiODBmMDFmMWRkIiwidCI6ImY2MzBmYjUyLWE1ZGEtNDA3NS05NzY4LWIyNzBhMDkxMjM1ZSJ9)
 
 ---
 
